@@ -20,7 +20,7 @@ Examples
 --------
 The examples show the application of the code to noisy dynamical systems and open quantum systems. These examples should clarify how parameters such as the initial condition, length of simulation and model parameters are passed from the Python code to Fortran.
 
-<img src="https://github.com/alexeistepa/FindUPO/blob/main/front.png?raw=true" width="400" height="400">
+<img src="https://github.com/alexeistepa/fSRK/blob/main/zeno_figa.png?raw=true" width="400" height="400">
 
 References
 ----------
